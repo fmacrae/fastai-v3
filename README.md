@@ -1,4 +1,4 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com) or you can put it on any internet facing cloud machine.   I used lightsail with a 1Gb memory footprint and 1Gb swap file.  It might still be running here:  http://3.13.88.192:5000/
 
 This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
 
